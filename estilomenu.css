@@ -1,0 +1,19 @@
+body {
+    background: #23242a;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 5px;
+}
+.select {
+    background: #2a2f3b;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 5pxpx #2a2f3b solid;
+    border-radius: 0.5em;
+    padding: 30px;
+    transition:  0.3;
+    
+}

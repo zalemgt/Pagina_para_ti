@@ -1,0 +1,8 @@
+background-color: skyblue;
+background-color: fuchsia;
+background-color: purple;
+background-color: #4c2882;
+background-color: yellow;
+background-color: yellowgreen;
+background-color: orange;
+background-color: orangered;
