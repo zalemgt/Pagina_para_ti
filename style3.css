@@ -1,0 +1,26 @@
+.button {
+    padding: 0.6em 0.9em;
+    font-size: 1em;
+    background-color: transparent;
+    border: 0.2em solid;
+    border-color: #00ffff #04ff00 #0051ff #d400ff;
+    border-radius: 1.5em;
+    color: #fff;
+    cursor: pointer;
+    -webkit-transition: border-radius 0.2s ease, color 0.2s ease,
+      border-shadow 0.2s ease, border-style 0.2s ease, -webkit-transform 0.2s ease;
+    transition: border-radius 0.2s ease, color 0.2s ease,
+      border-shadow 0.2s ease, border-style 0.2s ease, -webkit-transform 0.2s ease;
+    transition: transform 0.2s ease, border-radius 0.2s ease, color 0.2s ease,
+      border-shadow 0.2s ease, border-style 0.2s ease;
+    transition: transform 0.2s ease, border-radius 0.2s ease, color 0.2s ease,
+      border-shadow 0.2s ease, border-style 0.2s ease, -webkit-transform 0.2s ease;
+  }
+  a {
+    color: #fff; /* Cambiar el color del enlace a blanco (#fff) */
+    text-decoration: none; /* Esto quita la subrayado por defecto en los enlaces */
+}
+body{
+    background-color:black;
+    color: #fff;
+}
