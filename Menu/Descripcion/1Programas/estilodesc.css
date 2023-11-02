@@ -1,0 +1,70 @@
+body{
+  background-color: #313131;
+  background-image: radial-gradient(rgba(255, 255, 255, 0.171) 2px, transparent 0);
+  background-size: 30px 30px;
+  background-position: -5px -5px
+}
+a {
+    color: #fff; 
+    text-decoration: none; 
+}
+.button {
+    padding: 0.6em 0.9em;
+    font-size: 1em;
+    background-color: #BC81F7;
+    font-weight: bold;
+    border: 0.2em solid;
+    border-color: #00ffff #04ff00 #0051ff #d400ff;
+    border-radius: 1.5em;
+    color: #fff;
+    cursor: pointer;
+  }
+.contenedor {
+    padding: 5px;
+    width: 360px;
+    height: 525px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin: auto;
+    background-color:#7f00b2 ;
+  }
+.contenedor-hijo{
+    font-family: "Look for", sans-serif;
+    width: 345px;
+    height: 460px;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 5px;
+    background-color: #97e9ff;
+  }
+.gif1 {
+  width: 100px;
+  height: 100px;
+  margin-left: 122.5px;
+  margin-top: 5px;
+}
+.contenedor2 {
+  padding: 5px;
+  width: 360px;
+  height: 480px;
+  border-radius: 10px;
+  border: 2px solid black;
+  margin: auto;
+  background-color:#7f00b2 ;
+}
+.contenedor-hijo2{
+  font-family: "Look for", sans-serif;
+  width: 345px;
+  height: 460px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-top: 5px;
+  margin-left: 5px;
+  background-color: #97e9ff;
+}
+.video {
+  width: 345px;
+  height: 463px;
+  border-radius: 10px;
+}
