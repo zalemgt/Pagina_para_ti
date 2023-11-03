@@ -1,0 +1,89 @@
+.button {
+    padding: 0.6em 0.9em;
+    font-size: 1em;
+    background-color: #BC81F7;
+    font-weight: bold;
+    border: 0.2em solid;
+    border-color: #00ffff #04ff00 #0051ff #d400ff;
+    border-radius: 1.5em;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 5px;
+    margin-left: 5px;
+  }
+  a {
+    color: #fff; /* Cambiar el color del enlace a blanco (#fff) */
+    text-decoration: none; /* Esto quita la subrayado por defecto en los enlaces */
+}
+body{
+  background-color: #313131;
+  background-image: radial-gradient(rgba(255, 255, 255, 0.171) 2px, transparent 0);
+  background-size: 30px 30px;
+  background-position: -5px -5px
+}
+
+.contenedor-padre2 {
+  width: 350px;
+  height: 470px;
+  border: 2px solid black;
+  margin: auto;
+  margin-top: 10px;
+  background-color:#7f00b2 ;
+  border-radius: 20px;
+  font-family: "Look for", sans-serif;
+}
+.contenedor-titulo {
+  width: 320px;
+  height: 100px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 5px;
+  background-color: aqua;
+}
+.contenedor-desc-p {
+  width: 350px;
+  height: 200px;
+  margin: auto;
+  background-color: #7f00b2;
+  border-radius: 10px;
+  border: 2px solid black;
+}
+.contenedor-desc-h {
+  width: 320px;
+  height: 100px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 10px;
+  background-color: aqua;
+  font-family: "Look for", sans-serif;
+}
+.contenedor {
+  position: absolute;
+  width: 320px;
+  height: 330px;
+  background-color: aqua;
+  flex-direction: column;
+  align-items: center; 
+  text-align: justify;
+  margin-top: 5px;
+  margin-left: 9px;
+  border-radius: 10px;
+  border: 2px solid black;
+  padding: 5px;
+  font-size: 15px;
+}
+.titulos {
+  margin-left: 30px ;
+  margin-top: 15px;
+  font-size: 30px;
+}
+.titulo1 {
+  margin-left: 30px ;
+  margin-top: 30px;
+  font-size: 30px;
+}
+.texto-desc {
+  padding: 10px;
+}
